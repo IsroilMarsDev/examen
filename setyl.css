@@ -1,0 +1,77 @@
+.box {
+    text-align: center;
+    background-color: aqua;
+    border-radius: 120px;
+}
+
+.zz {
+    color: green;
+}
+
+.boo {
+    text-align: center;
+    background-color: gold;
+}
+
+.vv {
+    color: darkgreen;
+}
+
+.sa {
+    color: darkgreen;
+}
+
+.ss {
+    background-color: rgb(94, 94, 233);
+}
+
+input {
+    width: 800px;
+}
+
+button {
+    width: 400px;
+}
+
+table,
+tr,
+th,
+td {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+.mm {
+    background-color: darkgreen;
+
+}
+
+.ww {
+    background-color: red;
+}
+
+.ee {
+    background-color: blue;
+}
+
+.hh {
+    background-color: black;
+    width: ;
+    color: aliceblue;
+}
+
+.rr {
+    background-color: red;
+}
+
+.pp {
+    background-color: black;
+    color: aliceblue;
+}
+
+table {
+    width: 700px;
+}
+table{
+    width: 100%;
+}
